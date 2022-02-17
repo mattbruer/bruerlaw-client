@@ -8,9 +8,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nivo/core": "^0.74.1",
+    "@nivo/pie": "^0.74.1",
+    "axios": "^0.24.0",
+    "isomorphic-fetch": "^3.0.0",
+    "js-cookie": "^3.0.1",
+    "nanoid": "^3.1.30",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-quill": "^2.0.0-beta.4",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^6.0.2",
+    "react-toastify": "^8.1.0",
+    "socket.io-client": "^4.4.0",
+    "typewriter-effect": "^2.18.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",

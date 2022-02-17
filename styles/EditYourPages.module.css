@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid black;
+  height: 10rem;
+  width: 100%;
+  display: flex;
+  background-color: cornflowerblue;
+  overflow-x: scroll;
+}
+
+.pageCard {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: calc(100%-10px);
+  min-width: 200px;
+  overflow: scroll;
+  margin: 10px;
+  background-color: rgb(222, 233, 247);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
